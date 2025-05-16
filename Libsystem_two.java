@@ -1,3 +1,8 @@
+/* This is a libary system that accpets the information inputed by the user and runs different functionality's like 
+creating a book, adding a book, deleting a book, updating a book, listing all books, searching for a book, and exiting the program.
+And each of the books have informations like title, author, category, and date.
+* */
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.time.LocalDate;
